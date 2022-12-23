@@ -4,12 +4,12 @@
 프로젝트 기간 : 2022.09 ~ 2022.12  
 프로젝트 인원 : 4인
 
-| 이름         | 역할                                                           | 사용 기술                              |
-| :-----------: | :------------------------------------------------------------- | :------------------------------------- |
-| jsc9988      | 회원가입, 로그인, 회원 관리 백엔드 개발 및 Spring dockerize    |                                        |
-| park-sy      | 공동구매모집,페이기능백엔드개발, Spring dockerize, DevOps(AWS) |                                        |
-| JaeHyun Shin | 프론트엔드 개발, 푸시 서버 개발, PWA 구현, Mock server 구축    |                                        |
-| empodi       | 채팅 컨텍스트 백엔드 및 프론트엔드, Node.js dockerize          | Node.js, MySQL, Socket.io, Redis, Vue3, Kafka |
+|     이름     | 역할                                                           | 사용 기술                                     |
+| :----------: | :------------------------------------------------------------- | :-------------------------------------------- |
+|   jsc9988    | 회원가입, 로그인, 회원 관리 백엔드 개발 및 Spring dockerize    |                                               |
+|   park-sy    | 공동구매모집,페이기능백엔드개발, Spring dockerize, DevOps(AWS) |                                               |
+| JaeHyun Shin | 프론트엔드 개발, 푸시 서버 개발, PWA 구현, Mock server 구축    |                                               |
+|    empodi    | 채팅 컨텍스트 백엔드 및 프론트엔드, Node.js dockerize          | Node.js, MySQL, Socket.io, Redis, Vue3, Kafka |
 
 ## 프로젝트 설명
 
