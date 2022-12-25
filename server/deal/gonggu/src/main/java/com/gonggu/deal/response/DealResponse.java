@@ -28,7 +28,7 @@ public class DealResponse {
     private String hostName;
 
     public DealResponse(Deal deal){
-        LocalDateTime now = LocalDateTime.now();
+        LocalDateTime now = LocalDateTime.now().plusHours(9);
         this.id = deal.getId();
         this.category = deal.getCategory().getName();
         this.title = deal.getTitle();
@@ -41,18 +41,10 @@ public class DealResponse {
         this.image = new DealImageResponse(deal.getImages().get(0));
         this.deleted = deal.isDeletion();
         this.expired = deal.getExpireTime().toLocalDate().isBefore(now.toLocalDate());
-        System.out.println("-------");
-        System.out.println(title);
-        System.out.println(now);
-        System.out.println(deal.getExpireTime());
-        System.out.println(now.toLocalDate());
-        System.out.println(deal.getExpireTime().toLocalDate());
-        System.out.println(remainDate);
-        System.out.println(expired);
     }
 
     public DealResponse(Deal deal, Integer userCount){
-        LocalDateTime now = LocalDateTime.now();
+        LocalDateTime now = LocalDateTime.now().plusHours(9);
         this.id = deal.getId();
         this.category = deal.getCategory().getName();
         this.title = deal.getTitle();

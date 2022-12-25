@@ -14,10 +14,4 @@ public class GongguApplication {
 		SpringApplication.run(GongguApplication.class, args);
 	}
 
-	@PostConstruct
-	public void init(){
-		// Setting Spring Boot SetTimeZone
-		TimeZone.setDefault(TimeZone.getTimeZone("UTC+09:00"));
-	}
-
 }

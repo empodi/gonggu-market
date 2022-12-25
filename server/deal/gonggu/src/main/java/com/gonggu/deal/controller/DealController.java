@@ -11,6 +11,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.*;
 
+import java.time.LocalDateTime;
 import java.util.List;
 @CrossOrigin(origins = "http://localhost:8080",allowedHeaders = "*")
 @RestController
@@ -92,4 +93,9 @@ public class DealController {
         return user;
     }
     //참여 시 채팅방 서버에 request
+    @GetMapping("/deal/time")
+    public String getTime(){
+        LocalDateTime now = LocalDateTime.now().plusHours(9);
+        return now.toString();
+    }
 }

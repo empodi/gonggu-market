@@ -7,7 +7,7 @@
 |     이름     | 역할                                                           | 사용 기술                                     |
 | :----------: | :------------------------------------------------------------- | :-------------------------------------------- |
 |   jsc9988    | 회원가입, 로그인, 회원 관리 백엔드 개발 및 Spring dockerize    |                                               |
-|   park-sy    | 공동구매모집,페이기능백엔드개발, Spring dockerize, DevOps(AWS) |                                               |
+|   park-sy    | 공동구매모집,페이기능백엔드개발, Spring dockerize, DevOps(AWS) | Java11, Springboot, MySQL, Kafka            |
 | JaeHyun Shin | 프론트엔드 개발, 푸시 서버 개발, PWA 구현, Mock server 구축    |                                               |
 |    empodi    | 채팅 컨텍스트 백엔드 및 프론트엔드, Node.js dockerize          | Node.js, MySQL, Socket.io, Redis, Vue3, Kafka |
 
@@ -52,7 +52,37 @@
 
 ### 서비스 실행
 
-- 내용 추가 예정
+#### PWA
+![KakaoTalk_20221225_022555934](https://user-images.githubusercontent.com/53611554/209446052-7dffd0c9-e55b-4e12-99db-d15cbb98a9ee.gif)
+![KakaoTalk_20221225_022619059](https://user-images.githubusercontent.com/53611554/209446055-243f078f-11ad-45ba-bea6-2117e9a340cf.gif)
+![KakaoTalk_20221225_022636060_01](https://user-images.githubusercontent.com/53611554/209446059-82bd7a02-8e1e-487b-9ad7-735c2ae329e9.gif)
+
+
+#### 로그인
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/53611554/209445242-dd33b67a-2aa6-4b08-a094-4f338e9eec1b.gif)
+
+#### 게시글 생성
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/53611554/209445247-9eabaa4a-8b36-42ac-999c-0cb554b2d265.gif)
+
+#### 이미지 업로드
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/53611554/209445250-b5138e13-8c96-40ea-be46-d613c9991eef.gif)
+
+#### 공구 참여
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/53611554/209445321-39764a96-de1e-4250-bfd9-20a27a89e4d9.gif)
+
+#### 알림
+![KakaoTalk_20221225_022636060](https://user-images.githubusercontent.com/53611554/209446068-c9a6c52e-a3a6-4ee7-9e6d-1631355c3c7f.gif)
+
+#### 채팅
+![KakaoTalk_20221225_015726667_07](https://user-images.githubusercontent.com/53611554/209445286-d3b08aff-58e0-4aa7-a7fe-e0d0d8fdd8ff.gif)
+
+#### 송금
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/53611554/209445296-4995c61a-f84e-42e8-9751-3802f01aebdf.gif)
+
+#### 송금 내역
+![KakaoTalk_20221225_015726667_04](https://user-images.githubusercontent.com/53611554/209445359-d68843e9-cd16-4e9e-b0ac-c75131029ea4.gif)
+![KakaoTalk_20221225_015726667_05](https://user-images.githubusercontent.com/53611554/209445370-fc041b01-7399-4b2f-87b7-3062e53baa4b.gif)
+
 
 #### PWA 검증
 

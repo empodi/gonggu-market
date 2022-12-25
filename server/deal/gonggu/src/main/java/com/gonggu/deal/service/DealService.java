@@ -62,7 +62,7 @@ public class DealService {
                 .nowCount(dealCreate.getNowCount())
                 .user(user)
                 .createTime(LocalDateTime.now())
-                .expireTime(dealCreate.getExpireTime())
+                .expireTime(dealCreate.getExpireTime().plusHours(9))
                 .totalCount(dealCreate.getTotalCount())
                 .category(category)
                 .build();

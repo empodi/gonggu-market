@@ -35,7 +35,7 @@ public class DealDetailResponse {
     private final boolean expired;
 
     public DealDetailResponse(Deal deal){
-        LocalDateTime now = LocalDateTime.now();
+        LocalDateTime now = LocalDateTime.now().plusHours(9);
         this.id = deal.getId();
         this.title = deal.getTitle();
         this.content = deal.getContent();
