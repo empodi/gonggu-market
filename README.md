@@ -74,7 +74,7 @@
 ![KakaoTalk_20221225_022636060](https://user-images.githubusercontent.com/53611554/209446068-c9a6c52e-a3a6-4ee7-9e6d-1631355c3c7f.gif)
 
 #### 채팅
-![KakaoTalk_20221225_015726667_07](https://user-images.githubusercontent.com/53611554/209445286-d3b08aff-58e0-4aa7-a7fe-e0d0d8fdd8ff.gif)
+![KakaoTalk_20221225_015726667_07](https://user-images.githubusercontent.com/76815545/209288132-2691a7cf-d57a-47a3-92e1-5028162fcfda.gif)
 
 #### 송금
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/53611554/209445296-4995c61a-f84e-42e8-9751-3802f01aebdf.gif)
